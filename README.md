@@ -57,7 +57,8 @@ Developed by:udhayamoorthy A RegisterNumber:212225040477
 
 
 **RTL**
-<img width="1904" height="978" alt="596496169-9fe7f617-b80c-4d56-a72b-32334a047361" src="https://github.com/user-attachments/assets/795fecd1-634b-4d4a-b766-0f851131e138" />
+<img width="1920" height="1080" alt="597530600-18c1d255-66ab-42bd-9bf7-e93456e04fa1" src="https://github.com/user-attachments/assets/1cf15e58-33a3-403b-9fce-06597dad0a5c" />
+
 
 **Result:**
 
